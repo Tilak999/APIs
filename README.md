@@ -10,3 +10,6 @@ Contain list of all API links
   https://api.naturalreaders.com/v2/tts/?t={your text here}&r=26&s=1&requesttoken=515ddcea43ffa0c9bf40cda202f031e0 <br>
   t = {text to speak}<br>
   s = {speed of speech}
+
+## Password Dictionary
+  https://github.com/duyetdev/bruteforce-database<br>
