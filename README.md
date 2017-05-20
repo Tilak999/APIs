@@ -13,3 +13,9 @@ Contain list of all API links
 
 ## Password Dictionary
   https://github.com/duyetdev/bruteforce-database<br>
+
+## Use telegra.ph as image hosting.
+  http://telegra.ph/upload
+  POST request with parameters:
+  image = Image file path
+  name = name of the file (anything)
