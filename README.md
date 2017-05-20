@@ -15,7 +15,7 @@ Contain list of all API links
   https://github.com/duyetdev/bruteforce-database<br>
 
 ## Use telegra.ph as image hosting.
-  http://telegra.ph/upload
-  POST request with parameters:
-  image = Image file path
+  http://telegra.ph/upload <br/>
+  POST request with parameters: </br>
+  image = Image file path </br>
   name = name of the file (anything)
