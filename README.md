@@ -19,3 +19,8 @@ Contain list of all API links
   POST request with parameters: </br>
   image = Image file path </br>
   name = name of the file (anything)
+
+### Generate JSON Store token then use it to get jsonstore.io End-Point
+  https://www.jsonstore.io/get-token <br/> 
+  returns: <TOKEN> <br/>
+  Example of end-point : https://www.jsonstore.io/<TOKEN>
